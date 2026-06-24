@@ -7,21 +7,21 @@
 # U N D E R B L O G
 
 > [!Tip] Publicações
-> [[Todas as publicações\|Todas as publicações]]
+> [[1. Todas as publicações\|1. Todas as publicações]]
 > 
-> [[Desenhos\|Desenhos]]
+> [[2. Desenhos\|2. Desenhos]]
 > 
-> [[Reflexões\|Reflexões]]
+> [[3. Reflexões\|3. Reflexões]]
 > 
-> [[Poemas\|Poemas]]
+> [[4. Poemas\|4. Poemas]]
 
 > [!Info] Contatos
 > - www.vitoruemura.com
 > - vitoruemura@proton.me
 > - [+55 11 997893658](https://wa.me/5511997893658)
 
-> [!Example] 🔮 ORÁCULO 🔮
-> [ABRA UM POST ALEATÓRIO](/~random/)
+> [!Example] ORÁCULO - abra um post aleatório
+> [🔮🔮🔮](/~random/)
 
 ...
 # PUBLICAÇÕES RECENTES
@@ -235,4 +235,4 @@ Sketch, caderninho
 
 ---
 
-[[Todas as publicações\|Mais...]]
+[[1. Todas as publicações\|Mais...]]
