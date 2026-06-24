@@ -4,4 +4,4 @@
 
 ![a profecia 1.png\|600](/img/user/Images/a%20profecia%201.png)
 
-![a profecia 2.jpg\|600](/img/user/Images/a%20profecia%202.jpg)
+![a profecia 2.png](/img/user/Images/a%20profecia%202.png)
