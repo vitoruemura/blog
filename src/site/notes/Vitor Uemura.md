@@ -1,0 +1,238 @@
+---
+{"dg-publish":true,"permalink":"/vitor-uemura/","pinned":true,"tags":["gardenEntry"],"created":"2026-03-10T08:44:47.560-03:00","dg-note-properties":{}}
+---
+
+![distracted-trans2.png](/img/user/Images/distracted-trans2.png)
+
+# U N D E R B L O G
+
+> [!Tip] Publicações
+> [[Todas as publicações\|Todas as publicações]]
+> 
+> [[Desenhos\|Desenhos]]
+> 
+> [[Reflexões\|Reflexões]]
+> 
+> [[Poemas\|Poemas]]
+
+> [!Info] Contatos
+> - www.vitoruemura.com
+> - vitoruemura@proton.me
+> - [+55 11 997893658](https://wa.me/5511997893658)
+
+> [!Example] 🔮 ORÁCULO 🔮
+> [ABRA UM POST ALEATÓRIO](/~random/)
+
+...
+# PUBLICAÇÕES RECENTES
+---
+## Jornal do Veneno - 155
+*19 Junho 2026*
+
+![JV 155.png](/img/user/Images/JV%20155.png)
+
+Ilustra para a edição 154 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
+## Jornal do Veneno - 154
+*12 Junho 2026*
+
+![JV 154.png](/img/user/Images/JV%20154.png)
+
+Ilustra para a edição 154 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
+## Jornal do Veneno - 153
+*06 Junho 2026*
+
+![JV 153.png](/img/user/Images/JV%20153.png)
+
+Ilustra para a edição 153 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+
+---
+## Totem iluminado
+*02 Junho 2026*
+
+Estudo de luz
+
+![blog 20260602 1.png](/img/user/Images/blog%2020260602%201.png)
+
+![blog 20260602 2.png](/img/user/Images/blog%2020260602%202.png)
+
+Tinta acrílica, caderninho
+
+---
+## Hora Feliz
+*27 Maio 2026*
+
+![blog happy hour.jpeg\|600](/img/user/Images/blog%20happy%20hour.jpeg)
+Customização
+
+Happy hour que diz neh ?
+
+---
+## Jornal do Veneno - 152
+*22 Maio 2026*
+
+![jv 152 web.png\|600](/img/user/Images/jv%20152%20web.png)
+
+Ilustra para a publicação *152* do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
+## Open
+*21 Maio 2026*
+
+![blog 20260521.jpeg\|600](/img/user/Images/blog%2020260521.jpeg)
+Tinta acrílica, caderninho
+
+---
+## Ressonância xilo teste
+*18 Maio 2026*
+
+Testei fazer a matriz em linóleo. Gostei bastante, parece que cavar esse material é mais preciso, mas ele é bem mais caro do que o mdf, e o mestre disse que ele desgata mais rápido as ferramentas.
+
+**Sketch:**
+![blog 20260518 1.png](/img/user/Images/blog%2020260518%201.png)
+
+
+**Matriz de linóleo:**
+![blog 20260518 2.png](/img/user/Images/blog%2020260518%202.png)
+
+Esqueci de tirar foto do teste de impressão. Talvez na próxima eu me lembre.
+
+---
+## Espada xilo
+*11 Maio 2026*
+
+**Matriz em mdf:**
+![blog 20260511 1.png](/img/user/Images/blog%2020260511%201.png)
+
+
+**Impressão em algodão:**
+![blog 20260511 2.png](/img/user/Images/blog%2020260511%202.png)
+
+
+---
+## Jornal do Veneno - 150
+*08 Maio 2026*
+
+![JV 150.png](/img/user/Images/JV%20150.png)
+
+Ilustra para a edição 150 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+
+---
+## Mais cachu
+*08 Maio 2026*
+
+![blog 20260508.jpeg\|600](/img/user/Images/blog%2020260508.jpeg)
+Tinta acrílica, caderninho
+
+Mais uma cachoeira na mata :)
+
+---
+## Mais fogueira
+*05 Maio 2026*
+
+![blog 20260505.jpeg\|600](/img/user/Images/blog%2020260505.jpeg)
+Tinta acrílica, caderninho
+
+Mais uma fogueirinha :)
+Leva muito tempo e tentativas pra gente ir aperfeiçoando a nossa prática. Lembro que fiz essa pintura em pouco tempo, acho que em menos de uma hora, o que eu julgaria impossível em um passado não tão distante. Como eu já havia pintado fogueiras antes, eu já tinha uma espécie de mapa mental daquilo que representa visualmente uma fogueira, já sabia mais ou menos como que a luz e  sombra reagem nessas condições, daí acabou que consegui soltar bastante o processo, fazer tudo com um pincel só, e de uma vez só.
+
+Gostei bastante do exercício de soltura da mão, lembro que me forcei a fazer a coisa meio que com um certo desleixo, sem tentar controlar cada traço e textura. Acho que é aquela velha história de aprender as regras pra poder quebrar elas depois. Acho até difícil explicar com palavras o processo de pensamento que me ocorreu naquele momento, talvez porque não seja lá uma coisa racional, passível de explicação. Mas foi mais ou menos isso.
+
+---
+## Café com espada
+*04 Maio 2026*
+
+Mais uma tentativa de Xilo
+
+**Matriz de MDF**
+![blog 202605042.jpeg\|600](/img/user/Images/blog%20202605042.jpeg)
+
+**Impressões**
+![blog 20260504 1.jpeg\|600](/img/user/Images/blog%2020260504%201.jpeg)
+
+Xilogravura, caderninho
+
+---
+## Carinha
+*04 Maio 2026*
+
+![blog 20260504.jpeg\|600](/img/user/Images/blog%2020260504.jpeg)
+Sketch, caderninho
+
+Tem um cara com o nick *Earthsworld* que posta fotos maravilhosas de gente comum, gente nas ruas, geralmente em eventos. São ótimas fontes pra referência, porque elas não estão fazendo pose para as fotos, nem tem nada encenado, nada artificial. Acho muito legal porque mostra uma diversidade de tipos que não se vê em peças de marketing.
+
+---
+## Xilo olho alt
+*27 Abril 2026*
+
+Design alternativo
+
+**Desenho digital:**
+![xilo-olho 4.png](/img/user/Images/xilo-olho%204.png)
+
+**Matriz em mdf:**
+![xilo-olho 5.jpeg](/img/user/Images/xilo-olho%205.jpeg)
+
+**Impressão em algodão:**
+![xilo-olho 6.jpeg](/img/user/Images/xilo-olho%206.jpeg)
+
+---
+## Xilo olho
+*26 Abril 2026*
+
+Primeiro desenho no computador, depois passo para o mdf e faço a matriz, que é então usada para imprimir no algodão cru.
+
+**Desenho digital:**
+![xilo-olho 1.png](/img/user/Images/xilo-olho%201.png)
+
+**Matriz de mdf:**
+![xilo-olho 2.jpeg](/img/user/Images/xilo-olho%202.jpeg)
+
+**Impressão em algodão:**
+![xilo-olho3.jpeg](/img/user/Images/xilo-olho3.jpeg)
+
+---
+## Mão do destino update
+*25 Abril 2026*
+
+Print finalizado, no papel e no algodão cru
+![Destiny Hand 1.png\|600](/img/user/Images/Destiny%20Hand%201.png)
+
+![Destiny Hand 2.png\|600](/img/user/Images/Destiny%20Hand%202.png)
+
+---
+## Moonsword
+*13 Abril 2026*
+
+![blog 20260413.jpeg\|600](/img/user/Images/blog%2020260413.jpeg)
+Sketch, caderninho
+
+---
+## Mão do destino
+*03 Abril 2026*
+
+Desenho inicial:
+
+![Mao do destino.png\|600](/img/user/Images/Mao%20do%20destino.png)
+
+Matriz de madeira:
+
+![mao do destino xilo.jpeg\|600](/img/user/Images/mao%20do%20destino%20xilo.jpeg)
+
+---
+## Ouroboros
+*17 Março 2026*
+
+![blog 20260317.jpeg\|600](/img/user/Images/blog%2020260317.jpeg)
+
+Luz sombra
+Sketch, caderninho
+
+---
+
+[[Todas as publicações\|Mais...]]
