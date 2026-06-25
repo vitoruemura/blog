@@ -66,7 +66,7 @@ Tinta acrílica, caderninho
 ## Hora Feliz
 *27 Maio 2026*
 
-![blog happy hour.jpeg\|600](/img/user/Images/blog%20happy%20hour.jpeg)
+![blog happy hour.png](/img/user/Images/blog%20happy%20hour.png)
 Customização
 
 Happy hour que diz neh ?
@@ -83,7 +83,7 @@ Ilustra para a publicação *152* do [Jornal do Veneno](https://jornaldoveneno.s
 ## Open
 *21 Maio 2026*
 
-![blog 20260521.jpeg\|600](/img/user/Images/blog%2020260521.jpeg)
+![blog 20260521.png](/img/user/Images/blog%2020260521.png)
 Tinta acrílica, caderninho
 
 ---
@@ -126,7 +126,7 @@ Ilustra para a edição 150 do [Jornal do Veneno](https://jornaldoveneno.substac
 ## Mais cachu
 *08 Maio 2026*
 
-![blog 20260508.jpeg\|600](/img/user/Images/blog%2020260508.jpeg)
+![blog 20260508.png](/img/user/Images/blog%2020260508.png)
 Tinta acrílica, caderninho
 
 Mais uma cachoeira na mata :)
@@ -135,7 +135,7 @@ Mais uma cachoeira na mata :)
 ## Mais fogueira
 *05 Maio 2026*
 
-![blog 20260505.jpeg\|600](/img/user/Images/blog%2020260505.jpeg)
+![blog 20260505.png](/img/user/Images/blog%2020260505.png)
 Tinta acrílica, caderninho
 
 Mais uma fogueirinha :)
@@ -150,10 +150,10 @@ Gostei bastante do exercício de soltura da mão, lembro que me forcei a fazer a
 Mais uma tentativa de Xilo
 
 **Matriz de MDF**
-![blog 202605042.jpeg\|600](/img/user/Images/blog%20202605042.jpeg)
+![blog 202605042.png](/img/user/Images/blog%20202605042.png)
 
 **Impressões**
-![blog 20260504 1.jpeg\|600](/img/user/Images/blog%2020260504%201.jpeg)
+![blog 20260504 1.png](/img/user/Images/blog%2020260504%201.png)
 
 Xilogravura, caderninho
 
@@ -161,7 +161,7 @@ Xilogravura, caderninho
 ## Carinha
 *04 Maio 2026*
 
-![blog 20260504.jpeg\|600](/img/user/Images/blog%2020260504.jpeg)
+![blog 20260504.png](/img/user/Images/blog%2020260504.png)
 Sketch, caderninho
 
 Tem um cara com o nick *Earthsworld* que posta fotos maravilhosas de gente comum, gente nas ruas, geralmente em eventos. São ótimas fontes pra referência, porque elas não estão fazendo pose para as fotos, nem tem nada encenado, nada artificial. Acho muito legal porque mostra uma diversidade de tipos que não se vê em peças de marketing.
@@ -176,10 +176,10 @@ Design alternativo
 ![xilo-olho 4.png](/img/user/Images/xilo-olho%204.png)
 
 **Matriz em mdf:**
-![xilo-olho 5.jpeg](/img/user/Images/xilo-olho%205.jpeg)
+![xilo-olho 5.png](/img/user/Images/xilo-olho%205.png)
 
 **Impressão em algodão:**
-![xilo-olho 6.jpeg](/img/user/Images/xilo-olho%206.jpeg)
+![xilo-olho 6.png](/img/user/Images/xilo-olho%206.png)
 
 ---
 ## Xilo olho
@@ -191,10 +191,10 @@ Primeiro desenho no computador, depois passo para o mdf e faço a matriz, que é
 ![xilo-olho 1.png](/img/user/Images/xilo-olho%201.png)
 
 **Matriz de mdf:**
-![xilo-olho 2.jpeg](/img/user/Images/xilo-olho%202.jpeg)
+![xilo-olho 2.png](/img/user/Images/xilo-olho%202.png)
 
 **Impressão em algodão:**
-![xilo-olho3.jpeg](/img/user/Images/xilo-olho3.jpeg)
+![xilo-olho3.png](/img/user/Images/xilo-olho3.png)
 
 ---
 ## Mão do destino update
@@ -209,7 +209,7 @@ Print finalizado, no papel e no algodão cru
 ## Moonsword
 *13 Abril 2026*
 
-![blog 20260413.jpeg\|600](/img/user/Images/blog%2020260413.jpeg)
+![blog 20260413.png](/img/user/Images/blog%2020260413.png)
 Sketch, caderninho
 
 ---
@@ -222,13 +222,13 @@ Desenho inicial:
 
 Matriz de madeira:
 
-![mao do destino xilo.jpeg\|600](/img/user/Images/mao%20do%20destino%20xilo.jpeg)
+![mao do destino xilo.png](/img/user/Images/mao%20do%20destino%20xilo.png)
 
 ---
 ## Ouroboros
 *17 Março 2026*
 
-![blog 20260317.jpeg\|600](/img/user/Images/blog%2020260317.jpeg)
+![blog 20260317.png](/img/user/Images/blog%2020260317.png)
 
 Luz sombra
 Sketch, caderninho
