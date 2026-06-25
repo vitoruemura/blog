@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/chama-divina/","tags":["poema"],"created":"2023-10-08T14:39:48.000-03:00","dg-note-properties":{"tags":["poema"],"date":"2019-08-21"}}
+{"dg-publish":true,"permalink":"/publicacoes/chama-divina/","tags":["poema"],"dg-note-properties":{"tags":["poema"],"date":"2019-08-21"}}
 ---
 
 Sou a chama divina
@@ -19,3 +19,6 @@ que pulsa, junto com a natureza
 junto com cada outra alma,
 ao mesmo tempo,
 na mesma calma
+
+*21 Ago 2019*
+#poema 
