@@ -23,5 +23,6 @@ sempre atrelado à mim
 mas não eu mesmo
 pois há um infinito que sou
 
+
 *09 Out 2024*
 #poema 
