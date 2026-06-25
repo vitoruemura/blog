@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/dissolvido/","tags":["poema"],"created":"2023-10-08T14:39:50.000-03:00","dg-note-properties":{"tags":["poema"],"date":"2019-09-02"}}
+{"dg-publish":true,"permalink":"/publicacoes/dissolvido/","tags":["poema"],"dg-note-properties":{"tags":["poema"],"date":"2019-09-02"}}
 ---
 
 Ao me olhar de fora
@@ -17,3 +17,6 @@ em um mar,
 que mal consigo sentir
 qual parte de mim
 é realmente minha
+
+*02 Set 2019*
+#poema 
