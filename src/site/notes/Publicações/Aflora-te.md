@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/publicacoes/aflora-te/","tags":["poema","desenho"],"created":"2023-10-08T14:39:45.000-03:00","dg-note-properties":{"tags":["poema","desenho"],"date":"2022-08-30"}}
 ---
 
-![aflorate 1.jpg](/img/user/Images/aflorate%201.jpg)
+![aflorate 1.png](/img/user/Images/aflorate%201.png)
 
-![aflorate 2.jpg](/img/user/Images/aflorate%202.jpg)
+![aflorate 2.png](/img/user/Images/aflorate%202.png)
 
 
 Aflora-te
