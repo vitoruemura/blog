@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-lugar/","tags":["poema","desenho"],"created":"2023-10-08T14:39:55.000-03:00","dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-lugar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-27"}}
 ---
 
 ![o lugar.png](/img/user/Images/o%20lugar.png)
@@ -12,3 +12,6 @@ Outras vezes amor
 Seja lá o que for
 Não me importo mais
 Quero paz
+
+*27 Jan 2021*
+#poema #desenho 
