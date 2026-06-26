@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/eu-nao-sei/","tags":["poema"],"created":"2023-10-08T14:39:52.000-03:00","dg-note-properties":{"tags":["poema"],"date":"2021-02-20"}}
+{"dg-publish":true,"permalink":"/publicacoes/eu-nao-sei/","tags":["poema"],"dg-note-properties":{"tags":["poema"],"date":"2021-02-20"}}
 ---
 
 Eu não sei...
@@ -34,3 +34,6 @@ baixar a voz,
 abrir os ouvidos.
 E aí vem ele e canta tudo numa bela canção
 que enche a gente de lágrimas.
+
+*20 Fev 2021*
+#poema 
