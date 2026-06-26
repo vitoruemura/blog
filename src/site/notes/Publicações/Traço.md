@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/traco/","tags":["poema"],"created":"2023-10-08T14:40:00.000-03:00","dg-note-properties":{"tags":["poema"],"date":"2021-02-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/traco/","tags":["poema"],"dg-note-properties":{"tags":["poema"],"date":"2021-02-06"}}
 ---
 
 Que faço com meu traço,
@@ -16,3 +16,6 @@ Se tiver feito já as malas,
 e partido sem avisar ?
 Que faço ?
 Que faço sem meu traço ?
+
+*06 Fev 2021*
+#poema 
