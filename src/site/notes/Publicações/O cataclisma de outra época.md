@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-cataclisma-de-outra-epoca/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2014-11-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-cataclisma-de-outra-epoca/","tags":["desenho","poema","outro"],"dg-note-properties":{"tags":["desenho","poema","outro"],"date":"2014-11-06"}}
 ---
 
 ![Cataclisma.png](/img/user/Images/Cataclisma.png)
@@ -17,4 +17,4 @@ Durante o dia, gosto de me sentar aqui e acompanhar o fluxo das pessoas; almas t
 Cada um carrega um mundo inteiro dentro de si, como se fossem livros de história sendo escritos em tempo real, relatando fatos de uma mesma época, mas com diferentes pontos de vista.
 
 *06 Nov 2014*
-#poema #outro 
+#poema #outro #desenho 
