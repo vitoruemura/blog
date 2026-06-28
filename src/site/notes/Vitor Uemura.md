@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vitor-uemura/","pinned":true,"tags":["gardenEntry"],"created":"2026-03-10T08:44:47.560-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/vitor-uemura/","pinned":true,"tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ![distracted-trans2.png](/img/user/Images/distracted-trans2.png)
@@ -26,12 +26,20 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 156
+*26 Junho 2026*
+
+![JV 156.png](/img/user/Images/JV%20156.png)
+
+Ilustra para a edição 156 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Jornal do Veneno - 155
 *19 Junho 2026*
 
 ![JV 155.png](/img/user/Images/JV%20155.png)
 
-Ilustra para a edição 154 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+Ilustra para a edição 155 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
 
 ---
 ## Jornal do Veneno - 154
