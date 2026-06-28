@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/abertura/","tags":["poema"],"created":"2024-09-04T18:23:55.000-03:00","dg-note-properties":{"date":"2024-09-04T18:23","updated":"2024-09-23T15:13","tags":["poema"],"keywords":["abertura","auto-conhecimento","amadurecimento","poesia"]}}
+{"dg-publish":true,"permalink":"/publicacoes/abertura/","tags":["poema"],"dg-note-properties":{"date":"2024-09-04T18:23","tags":["poema"],"keywords":["abertura","auto-conhecimento","amadurecimento","poesia"]}}
 ---
 
 Preciso de mais abertura
@@ -23,3 +23,6 @@ lento
 ando onde for
 (soprado pelo vento)
 e carrego minhas sementes no bolso
+
+*04 Set 2024*
+#poema 
