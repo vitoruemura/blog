@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/c-alma/","tags":["poema"],"created":"2024-06-09T12:06:21.000-03:00","dg-note-properties":{"date":"2024-06-09T12:06","updated":"2024-07-09T10:35","tags":["poema"],"keywords":["calma"]}}
+{"dg-publish":true,"permalink":"/publicacoes/c-alma/","tags":["poema"],"dg-note-properties":{"date":"2024-06-09T12:06","updated":"2024-07-09T10:35","tags":["poema"],"keywords":["calma"]}}
 ---
 
 Calma
@@ -10,3 +10,6 @@ sem ansiedade
 sem pressa de terminar
 calma é querer estar e viver no momento em que as coisas acontecem
 Estar c'alma
+
+*09 Ago 2024*
+#poema 
