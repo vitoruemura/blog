@@ -13,7 +13,7 @@ it never comes to be
 
 at first it's freedom
 then it becomes prison
-when I realise i'm in it
+when I realize i'm in it
 when I wanna act upon reality
 it always reminds me it's not real
 I always hit the wall instead of going through
