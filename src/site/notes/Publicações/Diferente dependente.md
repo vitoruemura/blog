@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/diferente-dependente/","tags":["poema"],"dg-note-properties":{"date":"2024-10-09T20:41","updated":"2024-10-09T20:52","tags":["poema"]}}
+{"dg-publish":true,"permalink":"/publicacoes/diferente-dependente/","tags":["poema"],"dg-note-properties":{"date":"2024-10-09T20:41","tags":["poema"]}}
 ---
 
 Me pensar diferente
