@@ -12,3 +12,6 @@ Primeiro desenho no computador, depois passo para o mdf e faço a matriz, que é
 
 **Impressão em algodão:**
 ![xilo-olho3.png](/img/user/Images/xilo-olho3.png)
+
+*26 Abr 2026*
+#desenho 

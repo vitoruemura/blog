@@ -10,3 +10,6 @@ Espero que fique bom :D
 ![17- The Star.png\|300](/img/user/Images/17-%20The%20Star.png)     ![17 - The Star Inverse.png\|300](/img/user/Images/17%20-%20The%20Star%20Inverse.png)
 
 Prefiro a versão com fundo escuro, mas vou tentar fazer as duas pra testar e aprender melhor os processos, acho que assim consigo treinar mais. 
+
+*20 Mar 2026*
+#desenho 

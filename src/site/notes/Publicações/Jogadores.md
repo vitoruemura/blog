@@ -7,3 +7,6 @@ Jogadores mirins
 ![Joazinho.png\|600](/img/user/Images/Joazinho.png)
 
 ![Raul.png\|600](/img/user/Images/Raul.png)
+
+*16 Jan 2026*
+#desenho 
