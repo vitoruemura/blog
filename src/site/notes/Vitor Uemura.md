@@ -26,6 +26,13 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Retro Vision
+*30 Jun 2026*
+
+![Retro Vision.png](/img/user/Images/Retro%20Vision.png)
+
+
+---
 ## Jornal do Veneno - 156
 *26 Junho 2026*
 
@@ -212,35 +219,3 @@ Print finalizado, no papel e no algodão cru
 ![Destiny Hand 1.png\|600](/img/user/Images/Destiny%20Hand%201.png)
 
 ![Destiny Hand 2.png\|600](/img/user/Images/Destiny%20Hand%202.png)
-
----
-## Moonsword
-*13 Abril 2026*
-
-![blog 20260413.png](/img/user/Images/blog%2020260413.png)
-Sketch, caderninho
-
----
-## Mão do destino
-*03 Abril 2026*
-
-Desenho inicial:
-
-![Mao do destino.png\|600](/img/user/Images/Mao%20do%20destino.png)
-
-Matriz de madeira:
-
-![mao do destino xilo.png](/img/user/Images/mao%20do%20destino%20xilo.png)
-
----
-## Ouroboros
-*17 Março 2026*
-
-![blog 20260317.png](/img/user/Images/blog%2020260317.png)
-
-Luz sombra
-Sketch, caderninho
-
----
-
-[[1. Todas as publicações\|Mais...]]
