@@ -11,5 +11,5 @@ sem pressa de terminar
 calma é querer estar e viver no momento em que as coisas acontecem
 Estar c'alma
 
-*09 Ago 2024*
+*09 Jun 2024*
 #poema 
