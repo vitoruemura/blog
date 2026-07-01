@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/e-melhor-melhorar/","tags":["reflexao","poema"],"dg-note-properties":{"tags":["reflexao","poema"],"date":"2020-04-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/e-melhor-melhorar/","tags":["poema"],"dg-note-properties":{"tags":["poema"],"date":"2020-04-27"}}
 ---
 
 Hoje não queria pensar em nada
