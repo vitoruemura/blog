@@ -26,6 +26,16 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Feio
+*09 Jul 2026*
+
+![Feio.png](/img/user/Images/Feio.png)
+
+Pintura digital
+Explorando estilos
+
+
+---
 ## Retro Vision
 *30 Jun 2026*
 
