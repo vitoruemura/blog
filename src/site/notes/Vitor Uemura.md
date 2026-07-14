@@ -26,6 +26,15 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 157
+*10 Jul 2026*
+
+![JV 157.png](/img/user/Images/JV%20157.png)
+
+Ilustra para a edição 157 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+
+---
 ## Feio
 *09 Jul 2026*
 
