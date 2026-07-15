@@ -26,6 +26,13 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Fardo
+*15 Jul 2026*
+
+![Fardo.png](/img/user/Images/Fardo.png)
+
+
+---
 ## Jornal do Veneno - 157
 *10 Jul 2026*
 
