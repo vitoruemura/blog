@@ -26,6 +26,14 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 158
+*17 Jul 2026*
+
+![JV 158.png](/img/user/Images/JV%20158.png)
+
+Ilustra para a edição 158 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Fardo
 *15 Jul 2026*
 
