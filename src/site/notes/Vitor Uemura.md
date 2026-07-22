@@ -26,6 +26,13 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Ondulações
+*22 Jul 2026*
+
+![ondulações.png](/img/user/Images/ondula%C3%A7%C3%B5es.png)
+
+
+---
 ## Jornal do Veneno - 158
 *17 Jul 2026*
 
