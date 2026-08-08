@@ -26,6 +26,14 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 160
+*07 Ago 2026*
+
+![JV 160.png](/img/user/Images/JV%20160.png)
+
+Ilustra para a edição 160 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Quickposes
 *04 Ago 2026*
 
