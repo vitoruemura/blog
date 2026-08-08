@@ -26,6 +26,19 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Mochilinha
+*08 Ago 2026*
+
+Tinta acrílica na mochila :D 
+
+![mochila 1.png](/img/user/Images/mochila%201.png)
+
+![mochila 2.png](/img/user/Images/mochila%202.png)
+
+![mochila 3.png](/img/user/Images/mochila%203.png)
+
+
+---
 ## Jornal do Veneno - 160
 *07 Ago 2026*
 
