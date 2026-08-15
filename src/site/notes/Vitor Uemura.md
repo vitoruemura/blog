@@ -26,6 +26,21 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Firefly
+*15 Ago 2026*
+
+![Firefly.png](/img/user/Images/Firefly.png)
+
+
+---
+## Jornal do Veneno - 161
+*14 Ago 2026*
+
+![JV 161.png](/img/user/Images/JV%20161.png)
+
+Ilustra para a edição 161 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Mochilinha
 *08 Ago 2026*
 
