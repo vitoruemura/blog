@@ -26,6 +26,12 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Andorinha
+*16 Ago 2026*
+
+![andorinha.png](/img/user/Images/andorinha.png)
+
+---
 ## Firefly
 *15 Ago 2026*
 
