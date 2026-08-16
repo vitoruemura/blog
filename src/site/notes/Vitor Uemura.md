@@ -29,7 +29,7 @@
 ## Andorinha
 *16 Ago 2026*
 
-![andorinha.png](/img/user/Images/andorinha.png)
+![dorinha.png](/img/user/Images/dorinha.png)
 
 ---
 ## Firefly
