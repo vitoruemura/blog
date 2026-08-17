@@ -5,3 +5,6 @@
 ![JV 158.png](/img/user/Images/JV%20158.png)
 
 Ilustra para a edição 158 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+*17 Jul 2026*
+#desenho 

@@ -12,3 +12,6 @@ Processo de criação da arte da edição 159 do [Jornal do Veneno](https://jorn
 ![jv159-7.png\|300](/img/user/Images/jv159-7.png)![jv159-8.png\|300](/img/user/Images/jv159-8.png)
 
 ![jv159.png](/img/user/Images/jv159.png)
+
+*24 Jul 2026*
+#desenho 

@@ -9,3 +9,6 @@ Tinta acrílica na mochila :D
 ![mochila 2.png](/img/user/Images/mochila%202.png)
 
 ![mochila 3.png](/img/user/Images/mochila%203.png)
+
+*08 Ago 2026*
+#desenho 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/publicacoes/ando-triste/","tags":["poema"],"dg-note-properties":{"tags":["poema"],"date":"2021-02-19"}}
 ---
 
-Se ando triste
+fSe ando triste
 Me contenta a ideia de que pelo menos ando
 Não estou parado
 E se continuar andando triste
