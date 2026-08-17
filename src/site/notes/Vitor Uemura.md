@@ -26,6 +26,12 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Passarin
+*17 Ago 2026*
+
+![passarin.png](/img/user/Images/passarin.png)
+
+---
 ## Andorinha
 *16 Ago 2026*
 
