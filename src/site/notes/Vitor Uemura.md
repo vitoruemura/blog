@@ -26,6 +26,13 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 162
+
+![JV 162.png](/img/user/Images/JV%20162.png)
+
+Ilustração para a edição 162 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Passarin
 *17 Ago 2026*
 
