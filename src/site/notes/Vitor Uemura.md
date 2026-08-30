@@ -26,6 +26,15 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Gata
+*30 Ago 2026*
+
+![gatona 1.png](/img/user/Images/gatona%201.png)
+
+![gatona 2.png](/img/user/Images/gatona%202.png)
+
+
+---
 ## Rascunho sktch
 *29 Ago 2026*
 
