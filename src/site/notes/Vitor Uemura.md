@@ -26,11 +26,18 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
-## Jornal do Veneno - 162
+## Rascunho sktch
+*29 Ago 2026*
+
+![rascunho1.png](/img/user/Images/rascunho1.png)
+
+
+---
+## Jornal do Veneno - 162 e 163
 
 ![JV 162.png](/img/user/Images/JV%20162.png)
 
-Ilustração para a edição 162 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+Ilustração para a edição 162 e 163 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
 
 ---
 ## Passarin
