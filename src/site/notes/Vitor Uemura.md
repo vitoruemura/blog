@@ -26,6 +26,14 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 164
+*11 Set 2026*
+
+![JV 164.png](/img/user/Images/JV%20164.png)
+
+Ilustração para a edição 164 do [Jornal do Veneno](
+
+---
 ## Gata
 *30 Ago 2026*
 
