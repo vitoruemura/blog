@@ -31,7 +31,7 @@
 
 ![JV 164.png](/img/user/Images/JV%20164.png)
 
-Ilustração para a edição 164 do [Jornal do Veneno](
+Ilustração para a edição 164 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
 
 ---
 ## Gata
