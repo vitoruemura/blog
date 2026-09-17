@@ -26,6 +26,13 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Lake Eye
+*16 Set 2026*
+
+![Lake Eye.png](/img/user/Images/Lake%20Eye.png)
+
+---
+
 ## Jornal do Veneno - 164
 *11 Set 2026*
 
