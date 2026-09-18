@@ -26,6 +26,14 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 165
+*18 Set 2026*
+
+![JV 165.png](/img/user/Images/JV%20165.png)
+
+Ilustração para a edição 165 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Lake Eye
 *16 Set 2026*
 
