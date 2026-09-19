@@ -26,6 +26,13 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Campo de visão
+*19 Set 2026*
+
+![fieldofview.png](/img/user/Images/fieldofview.png)
+
+
+---
 ## Jornal do Veneno - 165
 *18 Set 2026*
 
