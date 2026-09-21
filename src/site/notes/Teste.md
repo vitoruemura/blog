@@ -9,7 +9,7 @@ views:
     name: View
     filters:
       and:
-        - file.inFolder("Images")
+        - file.ext == "png"
     order: []
     sort:
       - property: file.ctime
