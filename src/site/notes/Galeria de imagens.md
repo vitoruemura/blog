@@ -4,10 +4,12 @@
 
 
 ```base
-filters: file.inFolder("Images")
 views:
   - type: cards
     name: Gallery
+    filters:
+      and:
+        - file.ext == "png"
     order: []
     sort:
       - property: file.ctime
