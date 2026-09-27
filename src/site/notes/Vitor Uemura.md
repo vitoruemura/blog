@@ -26,6 +26,14 @@
 ...
 # PUBLICAÇÕES RECENTES
 ---
+## Jornal do Veneno - 166
+*25 Set 2026*
+
+![JV 166.png](/img/user/Images/JV%20166.png)
+
+Ilustração para a edição 166 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+
+---
 ## Campo de visão
 *19 Set 2026*
 
