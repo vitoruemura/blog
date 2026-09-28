@@ -13,6 +13,6 @@ views:
       - property: date
         direction: DESC
     image: note.cover
-      - imageFit: cover
+    cardSize: 300
 
 ```
