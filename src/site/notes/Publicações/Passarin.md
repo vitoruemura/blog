@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/passarin/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/passarin/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-17","cover":"Images/passarin.png"}}
 ---
 
 ![passarin.png](/img/user/Images/passarin.png)

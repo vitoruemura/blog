@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mochilinha/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-08"}}
+{"dg-publish":true,"permalink":"/publicacoes/mochilinha/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-08","cover":"Images/mochila 1.png"}}
 ---
 
 Tinta acrílica na mochila :D 
