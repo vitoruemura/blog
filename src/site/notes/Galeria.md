@@ -10,7 +10,7 @@ views:
   - type: cards
     name: Galeria
     sort:
-      - property: note.date
+      - property: file.ctime
         direction: DESC
     image: note.cover
 
