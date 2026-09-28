@@ -9,6 +9,8 @@ filters:
 views:
   - type: cards
     name: Galeria
+    order:
+		- file.name
     sort:
       - property: file.ctime
         direction: DESC
