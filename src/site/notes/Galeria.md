@@ -9,8 +9,11 @@ filters:
 views:
   - type: cards
     name: Imagens
+    order:
+      - file.name
     sort:
       - property: file.ctime
         direction: DESC
     image: note.cover
+
 ```
