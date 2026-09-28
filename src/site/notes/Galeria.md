@@ -9,8 +9,6 @@ filters:
 views:
   - type: cards
     name: Galeria
-    order:
-		- file.name
     sort:
       - property: note.date
         direction: DESC
