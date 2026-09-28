@@ -11,7 +11,7 @@ views:
     order:
       - file.name
     sort:
-      - property: date
-	    direction: DESC
+     - property: date
+        direction: DESC
 	image: note.cover
 ```
