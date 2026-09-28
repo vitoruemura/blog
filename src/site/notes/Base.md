@@ -3,18 +3,28 @@
 ---
 
 ```base
+filters:
+  and:
+    - file.hasTag("desenho")
+
+formulas:
+  capa: file.embeds.filter(["png"].contains(value.asFile().ext))[0]
+
+properties:
+  file.name:
+    displayName: Título
+
 views:
   - type: cards
-    name: Galeria
-    filters:
-      and:
-        - file.hasTag("desenho")
+    name: Desenhos
     order:
       - file.name
     sort:
-      - property: date
+      - property: file.ctime
         direction: DESC
-    image: file.file
+    image: formula.capa
+    imageFit: cover
+    imageAspectRatio: 1
     cardSize: 300
 
 ```
