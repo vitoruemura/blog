@@ -8,9 +8,7 @@ filters:
     - file.tags.contains("desenho")
 views:
   - type: cards
-    name: Imagens
-    order:
-      - file.name
+    name: Galeria
     sort:
       - property: file.ctime
         direction: DESC
