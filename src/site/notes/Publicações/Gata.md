@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/gata/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-30"}}
+{"dg-publish":true,"permalink":"/publicacoes/gata/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-30","cover":"Images/gatona 1.png"}}
 ---
 
 ![gatona 1.png](/img/user/Images/gatona%201.png)

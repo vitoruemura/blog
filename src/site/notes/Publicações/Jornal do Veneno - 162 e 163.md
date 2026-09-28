@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-162-e-163/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-21"}}
+{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-162-e-163/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-21","cover":"Images/JV 162.png"}}
 ---
 
 ![JV 162.png](/img/user/Images/JV%20162.png)

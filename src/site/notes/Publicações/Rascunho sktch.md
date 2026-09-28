@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/rascunho-sktch/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-29"}}
+{"dg-publish":true,"permalink":"/publicacoes/rascunho-sktch/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-29","cover":"Images/rascunho1.png"}}
 ---
 
 ![rascunho1.png](/img/user/Images/rascunho1.png)
