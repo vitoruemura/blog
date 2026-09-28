@@ -12,7 +12,7 @@ views:
     order:
 		- file.name
     sort:
-      - property: file.ctime
+      - property: note.date
         direction: DESC
     image: note.cover
 
