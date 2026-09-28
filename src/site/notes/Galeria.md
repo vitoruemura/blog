@@ -14,5 +14,5 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-    image: formula.capa
+    image: note.cover
 ```
