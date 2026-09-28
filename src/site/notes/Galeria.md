@@ -3,17 +3,15 @@
 ---
 
 ```base
+filters:
+  file.tags.contains("desenho")
 views:
   - type: cards
-    name: Galeria
-    filters:
-  and:
-    - file.tags.contains("desenho")
+    name: "Galeria"
     order:
-	  - file.name
+      - file.name
     sort:
-      - property: file.ctime
-        direction: DESC
-    image: note.cover
-
+	  - property: file.ctime
+	    direction: DESC
+	image: note.cover
 ```
