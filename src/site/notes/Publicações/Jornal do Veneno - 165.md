@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-165/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-09-18"}}
+{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-165/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-09-18","cover":"JV 165.png"}}
 ---
 
 ![JV 165.png](/img/user/Images/JV%20165.png)
