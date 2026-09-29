@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/endless-knot/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-11"}}
+{"dg-publish":true,"permalink":"/publicacoes/endless-knot/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-11","cover":"Images/Knot-3.png"}}
 ---
 
 ![Knot-3.png\|600](/img/user/Images/Knot-3.png)

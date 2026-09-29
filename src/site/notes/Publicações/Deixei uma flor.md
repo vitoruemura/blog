@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/deixei-uma-flor/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-10-31"}}
+{"dg-publish":true,"permalink":"/publicacoes/deixei-uma-flor/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-10-31","cover":"Images/Deixei Uma Flor WP.png"}}
 ---
 
 ![Deixei Uma Flor WP.png\|600](/img/user/Images/Deixei%20Uma%20Flor%20WP.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/tubs/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-10-31"}}
+{"dg-publish":true,"permalink":"/publicacoes/tubs/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-10-31","cover":"Images/Tubs WP.png"}}
 ---
 
 ![Tubs WP.png\|600](/img/user/Images/Tubs%20WP.png)

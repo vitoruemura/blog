@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/eye-flower/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-10-30"}}
+{"dg-publish":true,"permalink":"/publicacoes/eye-flower/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-10-30","cover":"Images/Eye Flower Red WP.png"}}
 ---
 
 ![Eye Flower Red WP.png\|600](/img/user/Images/Eye%20Flower%20Red%20WP.png)

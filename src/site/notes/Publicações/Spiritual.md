@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/spiritual/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-06-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/spiritual/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-06-12","cover":"Images/Spiritual-Blog.png"}}
 ---
 
 ![Spiritual-Blog.png\|600](/img/user/Images/Spiritual-Blog.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/blue-mountain/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-22"}}
+{"dg-publish":true,"permalink":"/publicacoes/blue-mountain/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-22","cover":"Images/Blue-Mountain-1.png"}}
 ---
 
 ![Blue-Mountain-1.png\|600](/img/user/Images/Blue-Mountain-1.png)

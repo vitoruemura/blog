@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/olhar/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2023-03-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/olhar/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2023-03-14","cover":"Images/Olhar.png"}}
 ---
 
 ![Olhar.png\|600](/img/user/Images/Olhar.png)

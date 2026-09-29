@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/arvore-da-transformacao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-24"}}
+{"dg-publish":true,"permalink":"/publicacoes/arvore-da-transformacao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-24","cover":"Images/Arvore-2.png"}}
 ---
 
 ![Arvore-2.png\|600](/img/user/Images/Arvore-2.png)

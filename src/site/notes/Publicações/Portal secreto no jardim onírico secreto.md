@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/portal-secreto-no-jardim-onirico-secreto/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-09"}}
+{"dg-publish":true,"permalink":"/publicacoes/portal-secreto-no-jardim-onirico-secreto/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-09","cover":"Images/Portal-2.png"}}
 ---
 
 ![Portal-2.png\|600](/img/user/Images/Portal-2.png)

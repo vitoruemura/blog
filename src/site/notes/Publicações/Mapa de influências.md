@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mapa-de-influencias/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2023-06-13"}}
+{"dg-publish":true,"permalink":"/publicacoes/mapa-de-influencias/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2023-06-13","cover":"Images/Influence-Map-2023.png"}}
 ---
 
 ![Influence-Map-2023.png\|600](/img/user/Images/Influence-Map-2023.png)

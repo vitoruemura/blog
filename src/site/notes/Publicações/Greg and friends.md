@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/greg-and-friends/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-07-16"}}
+{"dg-publish":true,"permalink":"/publicacoes/greg-and-friends/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-07-16","cover":"Images/Greg S W.png"}}
 ---
 
 ![Greg S W.png\|600](/img/user/Images/Greg%20S%20W.png)

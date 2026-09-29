@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/caminho-de-flores-e-estrelas/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/caminho-de-flores-e-estrelas/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-17","cover":"Images/Flores-e-Estrelas-2.png"}}
 ---
 
 ![Flores-e-Estrelas-2.png\|600](/img/user/Images/Flores-e-Estrelas-2.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/flowing-lines/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-04-11"}}
+{"dg-publish":true,"permalink":"/publicacoes/flowing-lines/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-04-11","cover":"Images/Lines-1.png"}}
 ---
 
 ![Lines-1.png\|600](/img/user/Images/Lines-1.png)

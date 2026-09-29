@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/sketchbook/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/sketchbook/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-17","cover":"Images/Sketchbook-1.png"}}
 ---
 
 ![Sketchbook-1.png\|600](/img/user/Images/Sketchbook-1.png)

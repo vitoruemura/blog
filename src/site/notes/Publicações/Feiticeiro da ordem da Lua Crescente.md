@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/feiticeiro-da-ordem-da-lua-crescente/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/feiticeiro-da-ordem-da-lua-crescente/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-27","cover":"Images/Lua-Crescente-2.png"}}
 ---
 
 ![Lua-Crescente-2.png\|600](/img/user/Images/Lua-Crescente-2.png)

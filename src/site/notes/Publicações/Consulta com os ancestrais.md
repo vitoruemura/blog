@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/consulta-com-os-ancestrais/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-13"}}
+{"dg-publish":true,"permalink":"/publicacoes/consulta-com-os-ancestrais/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-05-13","cover":"Images/Fox-2.png"}}
 ---
 
 ![Fox-2.png\|600](/img/user/Images/Fox-2.png)

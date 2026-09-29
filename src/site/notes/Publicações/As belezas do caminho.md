@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/as-belezas-do-caminho/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-06-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/as-belezas-do-caminho/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-06-06","cover":"Images/Belezas.png"}}
 ---
 
 ![Belezas.png\|600](/img/user/Images/Belezas.png)

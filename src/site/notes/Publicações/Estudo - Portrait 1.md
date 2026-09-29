@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/estudo-portrait-1/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-11-01"}}
+{"dg-publish":true,"permalink":"/publicacoes/estudo-portrait-1/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-11-01","cover":"Images/Portrait 1 Ref.png"}}
 ---
 
 Estudo de cinematic portrait
