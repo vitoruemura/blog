@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/volatil/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-12-10"}}
+{"dg-publish":true,"permalink":"/publicacoes/volatil/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-12-10","cover":"Images/volatil.png"}}
 ---
 
 ![volatil.png](/img/user/Images/volatil.png)

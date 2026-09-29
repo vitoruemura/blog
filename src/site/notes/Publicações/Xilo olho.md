@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/xilo-olho/","tags":["desenho"],"dg-note-properties":{"date":"2026-04-26","tags":["desenho"]}}
+{"dg-publish":true,"permalink":"/publicacoes/xilo-olho/","tags":["desenho"],"dg-note-properties":{"date":"2026-04-26","tags":["desenho"],"cover":"Images/xilo-olho 1.png"}}
 ---
 
 Primeiro desenho no computador, depois passo para o mdf e faço a matriz, que é então usada para imprimir no algodão cru.

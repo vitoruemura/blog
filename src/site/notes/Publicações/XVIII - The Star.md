@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/xviii-the-star/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-03-20"}}
+{"dg-publish":true,"permalink":"/publicacoes/xviii-the-star/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-03-20","cover":"Images/17- The Star.png"}}
 ---
 
 Me matriculei em um curso de Xilogravura.

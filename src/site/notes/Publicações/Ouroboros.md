@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/ouroboros/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-03-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/ouroboros/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-03-17","cover":"Images/blog 20260317.png"}}
 ---
 
 ![blog 20260317.png](/img/user/Images/blog%2020260317.png)

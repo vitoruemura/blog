@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/faces/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-03-04"}}
+{"dg-publish":true,"permalink":"/publicacoes/faces/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-03-04","cover":"Images/faces 1.png"}}
 ---
 
 ![faces 1.png](/img/user/Images/faces%201.png)

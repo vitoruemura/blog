@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/xilo-olho-alt/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-04-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/xilo-olho-alt/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-04-27","cover":"Images/xilo-olho 4.png"}}
 ---
 
 Design alternativo

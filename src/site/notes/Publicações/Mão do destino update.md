@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mao-do-destino-update/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-04-25"}}
+{"dg-publish":true,"permalink":"/publicacoes/mao-do-destino-update/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-04-25","cover":"Images/Destiny Hand 1.png"}}
 ---
 
 Print finalizado, no papel e no algodão cru

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/distraido-e-focado/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-12-16"}}
+{"dg-publish":true,"permalink":"/publicacoes/distraido-e-focado/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-12-16","cover":"Images/distracted.png"}}
 ---
 
 ![distracted.png\|600](/img/user/Images/distracted.png)

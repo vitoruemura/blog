@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/flash-desenhos/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/flash-desenhos/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-27","cover":"Images/tesourinha.png"}}
 ---
 
 ![tesourinha.png\|300](/img/user/Images/tesourinha.png) ![azul.png\|300](/img/user/Images/azul.png)

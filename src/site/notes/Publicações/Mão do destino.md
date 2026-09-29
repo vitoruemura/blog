@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mao-do-destino/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-04-03"}}
+{"dg-publish":true,"permalink":"/publicacoes/mao-do-destino/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-04-03","cover":"Images/Mao do destino.png"}}
 ---
 
 Desenho inicial:

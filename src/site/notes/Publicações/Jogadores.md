@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/jogadores/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-16"}}
+{"dg-publish":true,"permalink":"/publicacoes/jogadores/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-16","cover":"Images/Joazinho.png"}}
 ---
 
 Jogadores mirins

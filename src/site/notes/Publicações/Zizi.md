@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/zizi/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-13"}}
+{"dg-publish":true,"permalink":"/publicacoes/zizi/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-13","cover":"Images/Zizi 1 blgo.png"}}
 ---
 
 ![Zizi 1 blgo.png\|600](/img/user/Images/Zizi%201%20blgo.png)

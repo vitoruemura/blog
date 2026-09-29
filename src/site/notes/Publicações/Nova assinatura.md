@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/nova-assinatura/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2026-01-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/nova-assinatura/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2026-01-12","cover":"Images/Assinatura Color.png"}}
 ---
 
 Fiz essa nova assinatura, estou feliz com ela :)

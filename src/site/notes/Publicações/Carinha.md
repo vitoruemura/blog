@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/carinha/","tags":["desenho"],"dg-note-properties":{"date":"2026-05-04","tags":["desenho"]}}
+{"dg-publish":true,"permalink":"/publicacoes/carinha/","tags":["desenho"],"dg-note-properties":{"date":"2026-05-04","tags":["desenho"],"cover":"Images/blog 20260504.png"}}
 ---
 
 ![blog 20260504.png](/img/user/Images/blog%2020260504.png)

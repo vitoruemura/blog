@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/sr-baldinho/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-22"}}
+{"dg-publish":true,"permalink":"/publicacoes/sr-baldinho/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-01-22","cover":"Images/Srt Baldinho Hang Loose.png"}}
 ---
 
  Um tempo atrás eu fiz um cartaz pra Angatu, e fiz o que viria a ser o mascote, o Sr. Baldinho.

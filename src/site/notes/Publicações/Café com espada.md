@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/cafe-com-espada/","tags":["desenho"],"dg-note-properties":{"date":"2026-05-04","tags":["desenho"]}}
+{"dg-publish":true,"permalink":"/publicacoes/cafe-com-espada/","tags":["desenho"],"dg-note-properties":{"date":"2026-05-04","tags":["desenho"],"cover":"Images/blog 202605042.png"}}
 ---
 
 Mais uma tentativa de Xilo
