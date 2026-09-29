@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mundo-secreto/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-12-01"}}
+{"dg-publish":true,"permalink":"/publicacoes/mundo-secreto/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-12-01","cover":"Images/mundo secreto.png"}}
 ---
 
 O mundo secreto das noites internas

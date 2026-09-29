@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mesa-radionica/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-21"}}
+{"dg-publish":true,"permalink":"/publicacoes/mesa-radionica/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-21","cover":"Images/mesa radionica.png"}}
 ---
 
 Depois de muito trabalho, muito tempo,  e muitos desenhos e ajustes, a mesa finalmente ficou pronta.

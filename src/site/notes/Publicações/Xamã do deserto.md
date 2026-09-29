@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/xama-do-deserto/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-04-13"}}
+{"dg-publish":true,"permalink":"/publicacoes/xama-do-deserto/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-04-13","cover":"Images/xama do deserto 1.png"}}
 ---
 
 ![xama do deserto 1.png](/img/user/Images/xama%20do%20deserto%201.png)

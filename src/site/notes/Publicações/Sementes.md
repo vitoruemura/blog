@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/sementes/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-12-23"}}
+{"dg-publish":true,"permalink":"/publicacoes/sementes/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-12-23","cover":"Images/sementes.png"}}
 ---
 
 ![sementes.png\|500](/img/user/Images/sementes.png)

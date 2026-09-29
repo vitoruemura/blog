@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/so-consegui-ser-eu-mesmo/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-16"}}
+{"dg-publish":true,"permalink":"/publicacoes/so-consegui-ser-eu-mesmo/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-16","cover":"Images/so consegui ser eu mesmo.png"}}
 ---
 
 ![so consegui ser eu mesmo.png\|500](/img/user/Images/so%20consegui%20ser%20eu%20mesmo.png)

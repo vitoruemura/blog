@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/olibano/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-05-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/olibano/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-05-17","cover":"Images/olibano.png"}}
 ---
 
 ![olibano.png](/img/user/Images/olibano.png)

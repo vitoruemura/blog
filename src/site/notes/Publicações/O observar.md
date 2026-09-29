@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-observar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-10-04"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-observar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-10-04","cover":"Images/o observar.png"}}
 ---
 
 ![o observar.png](/img/user/Images/o%20observar.png)

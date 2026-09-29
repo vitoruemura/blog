@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/flores-ser/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-11-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/flores-ser/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-11-12","cover":"Images/flores ser.png"}}
 ---
 
 ![flores ser.png\|500](/img/user/Images/flores%20ser.png)

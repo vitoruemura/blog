@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/embolado/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-22"}}
+{"dg-publish":true,"permalink":"/publicacoes/embolado/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-22","cover":"Images/embolado.png"}}
 ---
 
 ![embolado.png](/img/user/Images/embolado.png)

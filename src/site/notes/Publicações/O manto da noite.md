@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-manto-da-noite/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-13"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-manto-da-noite/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-13","cover":"Images/manto da noite 1.png"}}
 ---
 
 O manto da noite

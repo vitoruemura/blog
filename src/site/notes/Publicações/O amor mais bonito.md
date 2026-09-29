@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-amor-mais-bonito/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-11"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-amor-mais-bonito/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-11","cover":"Images/amor mais bonito.png"}}
 ---
 
 ![amor mais bonito.png\|400](/img/user/Images/amor%20mais%20bonito.png)

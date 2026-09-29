@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/aflora-te/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-08-30"}}
+{"dg-publish":true,"permalink":"/publicacoes/aflora-te/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-08-30","cover":"Images/aflorate 1.png"}}
 ---
 
 ![aflorate 1.png](/img/user/Images/aflorate%201.png)

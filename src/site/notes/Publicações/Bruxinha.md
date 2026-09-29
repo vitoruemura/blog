@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/bruxinha/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-01-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/bruxinha/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-01-06","cover":"Images/bruxinhna 1.png"}}
 ---
 
 ![bruxinhna 1.png](/img/user/Images/bruxinhna%201.png)

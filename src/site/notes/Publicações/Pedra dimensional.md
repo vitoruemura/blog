@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/pedra-dimensional/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-20"}}
+{"dg-publish":true,"permalink":"/publicacoes/pedra-dimensional/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-20","cover":"Images/pedra dimensional.png"}}
 ---
 
 ![pedra dimensional.png](/img/user/Images/pedra%20dimensional.png)

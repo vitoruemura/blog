@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/emotional-gamer/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-01-25"}}
+{"dg-publish":true,"permalink":"/publicacoes/emotional-gamer/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-01-25","cover":"Images/emotional gamer.png"}}
 ---
 
 ![emotional gamer.png\|600](/img/user/Images/emotional%20gamer.png)

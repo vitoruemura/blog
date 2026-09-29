@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/daruma/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-05-25"}}
+{"dg-publish":true,"permalink":"/publicacoes/daruma/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-05-25","cover":"Images/daruma 1.png"}}
 ---
 
 ![daruma 1.png](/img/user/Images/daruma%201.png)

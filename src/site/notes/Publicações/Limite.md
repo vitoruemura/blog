@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/limite/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-12-08"}}
+{"dg-publish":true,"permalink":"/publicacoes/limite/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-12-08","cover":"Images/limite 1.png"}}
 ---
 
 ![limite 1.png](/img/user/Images/limite%201.png)

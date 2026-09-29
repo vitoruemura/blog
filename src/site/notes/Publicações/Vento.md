@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/vento/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-01-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/vento/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-01-06","cover":"Images/Vento.png"}}
 ---
 
 ![Vento.png](/img/user/Images/Vento.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/caixa-de-coisas-bonitas/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-02"}}
+{"dg-publish":true,"permalink":"/publicacoes/caixa-de-coisas-bonitas/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-02","cover":"Images/caixa de coisas bonitas.png"}}
 ---
 
 ![caixa de coisas bonitas.png\|400](/img/user/Images/caixa%20de%20coisas%20bonitas.png)

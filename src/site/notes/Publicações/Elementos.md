@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/elementos/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-11-04"}}
+{"dg-publish":true,"permalink":"/publicacoes/elementos/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-11-04","cover":"Images/elementos.png"}}
 ---
 
 ![elementos.png\|300](/img/user/Images/elementos.png)

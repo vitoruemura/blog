@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/ausente/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-11-24"}}
+{"dg-publish":true,"permalink":"/publicacoes/ausente/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-11-24","cover":"Images/Ausente.png"}}
 ---
 
 ![Ausente.png\|500](/img/user/Images/Ausente.png)

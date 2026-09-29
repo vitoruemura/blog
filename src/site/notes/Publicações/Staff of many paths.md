@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/staff-of-many-paths/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-02-03"}}
+{"dg-publish":true,"permalink":"/publicacoes/staff-of-many-paths/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-02-03","cover":"Images/staff original.png"}}
 ---
 
 It can reveal the hidden paths along the way but it also causes great confusion for they are many

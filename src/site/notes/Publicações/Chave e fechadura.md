@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/chave-e-fechadura/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2021-02-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/chave-e-fechadura/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2021-02-17","cover":"Images/chave e fechadura.png"}}
 ---
 
 ![chave e fechadura.png\|500](/img/user/Images/chave%20e%20fechadura.png)

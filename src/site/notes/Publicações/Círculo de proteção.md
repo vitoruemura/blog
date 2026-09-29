@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/circulo-de-protecao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-01-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/circulo-de-protecao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-01-14","cover":"Images/circle.png"}}
 ---
 
 ![circle.png](/img/user/Images/circle.png)

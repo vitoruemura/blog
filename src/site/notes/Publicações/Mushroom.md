@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mushroom/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-06-03"}}
+{"dg-publish":true,"permalink":"/publicacoes/mushroom/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-06-03","cover":"Images/mush.png"}}
 ---
 
 ![mush.png](/img/user/Images/mush.png)

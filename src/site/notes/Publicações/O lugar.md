@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-lugar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-lugar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-27","cover":"Images/o lugar.png"}}
 ---
 
 ![o lugar.png](/img/user/Images/o%20lugar.png)

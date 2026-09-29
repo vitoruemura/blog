@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/alcance/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-10-05"}}
+{"dg-publish":true,"permalink":"/publicacoes/alcance/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-10-05","cover":"Images/alcance 2.png"}}
 ---
 
 ![alcance 2.png](/img/user/Images/alcance%202.png)

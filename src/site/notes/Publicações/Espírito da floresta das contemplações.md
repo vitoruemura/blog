@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/espirito-da-floresta-das-contemplacoes/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2022-03-18"}}
+{"dg-publish":true,"permalink":"/publicacoes/espirito-da-floresta-das-contemplacoes/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2022-03-18","cover":"Images/pensamentos naturais.png"}}
 ---
 
 ![pensamentos naturais.png](/img/user/Images/pensamentos%20naturais.png)

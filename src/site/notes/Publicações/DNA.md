@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/dna/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/dna/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-12","cover":"Images/dna.png"}}
 ---
 
 ![dna.png](/img/user/Images/dna.png)

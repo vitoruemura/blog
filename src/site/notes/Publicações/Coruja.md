@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/coruja/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/coruja/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2021-12-14","cover":"Images/coruja.png"}}
 ---
 
 ![coruja.png](/img/user/Images/coruja.png)

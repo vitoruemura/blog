@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/desmoronamento/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-02-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/desmoronamento/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-02-14","cover":"Images/Desmoronamento.png"}}
 ---
 
 ![Desmoronamento.png](/img/user/Images/Desmoronamento.png)

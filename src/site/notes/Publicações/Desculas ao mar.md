@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/desculas-ao-mar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/desculas-ao-mar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-02-14","cover":"Images/Onda.png"}}
 ---
 
 ![Onda.png](/img/user/Images/Onda.png)

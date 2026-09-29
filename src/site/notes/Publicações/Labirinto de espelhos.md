@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/labirinto-de-espelhos/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-26"}}
+{"dg-publish":true,"permalink":"/publicacoes/labirinto-de-espelhos/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-01-26","cover":"Images/lab de espelhos.png"}}
 ---
 
 ![lab de espelhos.png](/img/user/Images/lab%20de%20espelhos.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/fada/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-02-07"}}
+{"dg-publish":true,"permalink":"/publicacoes/fada/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-02-07","cover":"Images/fada.png"}}
 ---
 
 ![fada.png](/img/user/Images/fada.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/a-profecia/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-04-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/a-profecia/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-04-12","cover":"Images/a profecia 1.png"}}
 ---
 
 ![a profecia 1.png\|600](/img/user/Images/a%20profecia%201.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/verdadeiro/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-11-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/verdadeiro/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2021-11-17","cover":"Images/verdadeiro.png"}}
 ---
 
 ![verdadeiro.png\|500](/img/user/Images/verdadeiro.png)
