@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-154/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-06-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-154/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-06-12","cover":"Images/JV 154.png"}}
 ---
 
 ![JV 154.png](/img/user/Images/JV%20154.png)

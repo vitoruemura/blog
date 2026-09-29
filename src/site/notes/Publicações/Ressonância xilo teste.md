@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/ressonancia-xilo-teste/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-18"}}
+{"dg-publish":true,"permalink":"/publicacoes/ressonancia-xilo-teste/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-18","cover":"Images/blog 20260518 1.png"}}
 ---
 
 Testei fazer a matriz em linóleo. Gostei bastante, parece que cavar esse material é mais preciso, mas ele é bem mais caro do que o mdf, e o mestre disse que ele desgata mais rápido as ferramentas.

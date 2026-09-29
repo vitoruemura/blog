@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mais-cachu/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-08"}}
+{"dg-publish":true,"permalink":"/publicacoes/mais-cachu/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-08","cover":"Images/blog 20260508.png"}}
 ---
 
 ![blog 20260508.png](/img/user/Images/blog%2020260508.png)

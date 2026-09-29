@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/totem-iluminado/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-06-02"}}
+{"dg-publish":true,"permalink":"/publicacoes/totem-iluminado/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-06-02","cover":"Images/blog 20260602 1.png"}}
 ---
 
 Estudo de luz

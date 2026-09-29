@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/espada-xilo/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-11"}}
+{"dg-publish":true,"permalink":"/publicacoes/espada-xilo/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-11","cover":"Images/blog 20260511 1.png"}}
 ---
 
 **Matriz em mdf:**

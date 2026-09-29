@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/open/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-21"}}
+{"dg-publish":true,"permalink":"/publicacoes/open/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-05-21","cover":"Images/blog 20260521.png"}}
 ---
 
 ![blog 20260521.png](/img/user/Images/blog%2020260521.png)
