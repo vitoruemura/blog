@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/intuicao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/intuicao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-27","cover":"Images/inti 1.png"}}
 ---
 
 ![inti 1.png](/img/user/Images/inti%201.png)

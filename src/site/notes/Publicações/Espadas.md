@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/espadas/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-02-01"}}
+{"dg-publish":true,"permalink":"/publicacoes/espadas/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-02-01","cover":"Images/Espadas-3.png"}}
 ---
 
 ![Espadas-3.png\|600](/img/user/Images/Espadas-3.png)

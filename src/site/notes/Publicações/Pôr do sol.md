@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/por-do-sol/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2023-01-31"}}
+{"dg-publish":true,"permalink":"/publicacoes/por-do-sol/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2023-01-31","cover":"Images/por-do-sol.png"}}
 ---
 
 Há um pouco de mim que se vai a cada pôr do sol,

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/iluminacao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/iluminacao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-14","cover":"Images/iluminação.png"}}
 ---
 
 ![iluminação.png](/img/user/Images/ilumina%C3%A7%C3%A3o.png)

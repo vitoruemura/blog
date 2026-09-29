@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/parede-solida/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2023-02-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/parede-solida/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2023-02-06","cover":"Images/parede-solida.png"}}
 ---
 
 ![parede-solida.png](/img/user/Images/parede-solida.png)

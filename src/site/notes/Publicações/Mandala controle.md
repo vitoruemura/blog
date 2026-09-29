@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/mandala-controle/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2023-02-24"}}
+{"dg-publish":true,"permalink":"/publicacoes/mandala-controle/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2023-02-24","cover":"Images/Mandala-1.png"}}
 ---
 
 ![Mandala-1.png\|600](/img/user/Images/Mandala-1.png)

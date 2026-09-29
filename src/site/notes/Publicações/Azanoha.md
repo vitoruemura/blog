@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/azanoha/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-10"}}
+{"dg-publish":true,"permalink":"/publicacoes/azanoha/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-03-10","cover":"Images/Azanoha.png"}}
 ---
 
 ![Azanoha.png\|600](/img/user/Images/Azanoha.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/protecao-sempre-bao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-11-22"}}
+{"dg-publish":true,"permalink":"/publicacoes/protecao-sempre-bao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-11-22","cover":"Images/protecao.png"}}
 ---
 
 ![protecao.png](/img/user/Images/protecao.png)

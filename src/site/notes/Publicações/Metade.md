@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/metade/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-12-31"}}
+{"dg-publish":true,"permalink":"/publicacoes/metade/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-12-31","cover":"Images/Metade-2.png"}}
 ---
 
 

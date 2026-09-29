@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/simbolo-de-acao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-16"}}
+{"dg-publish":true,"permalink":"/publicacoes/simbolo-de-acao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-16","cover":"Images/simbolo acao.png"}}
 ---
 
 ![simbolo acao.png](/img/user/Images/simbolo%20acao.png)

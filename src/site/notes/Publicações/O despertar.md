@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-despertar/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2022-12-25"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-despertar/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2022-12-25","cover":"Images/raio.png"}}
 ---
 
 ![raio.png\|400](/img/user/Images/raio.png)

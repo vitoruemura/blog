@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/sumauma/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-11-24"}}
+{"dg-publish":true,"permalink":"/publicacoes/sumauma/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-11-24","cover":"Images/Sumauma.png"}}
 ---
 
 ![Sumauma.png](/img/user/Images/Sumauma.png)

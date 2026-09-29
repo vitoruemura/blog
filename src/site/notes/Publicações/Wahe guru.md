@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/wahe-guru/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-19"}}
+{"dg-publish":true,"permalink":"/publicacoes/wahe-guru/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-19","cover":"Images/wahe guru.png"}}
 ---
 
 ![wahe guru.png](/img/user/Images/wahe%20guru.png)

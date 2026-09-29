@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/escrevesenhando/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-12-27"}}
+{"dg-publish":true,"permalink":"/publicacoes/escrevesenhando/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-12-27","cover":"Images/escrevesenhando.png"}}
 ---
 
 ![escrevesenhando.png\|400](/img/user/Images/escrevesenhando.png)

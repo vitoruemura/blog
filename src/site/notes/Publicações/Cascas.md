@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/cascas/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-11-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/cascas/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-11-17","cover":"Images/cascas 1.png"}}
 ---
 
 ![cascas 1.png](/img/user/Images/cascas%201.png)

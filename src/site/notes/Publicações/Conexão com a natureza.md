@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/conexao-com-a-natureza/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-22"}}
+{"dg-publish":true,"permalink":"/publicacoes/conexao-com-a-natureza/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-22","cover":"Images/conexao 1.png"}}
 ---
 
 Através das vivências na Natureza a alma se abre para o infinito e a eterna fonte de conhecimento que nela existe.

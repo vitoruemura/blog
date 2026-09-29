@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/noite-magica/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-02-09"}}
+{"dg-publish":true,"permalink":"/publicacoes/noite-magica/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-02-09","cover":"Images/Noite-Magica.png"}}
 ---
 
 ![Noite-Magica.png\|600](/img/user/Images/Noite-Magica.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/propagar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2023-02-05"}}
+{"dg-publish":true,"permalink":"/publicacoes/propagar/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2023-02-05","cover":"Images/propagar.png"}}
 ---
 
 ![propagar.png](/img/user/Images/propagar.png)

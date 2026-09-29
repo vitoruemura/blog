@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/espirito-da-floresta/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2022-12-02"}}
+{"dg-publish":true,"permalink":"/publicacoes/espirito-da-floresta/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2022-12-02","cover":"Images/Macaco.png"}}
 ---
 
 ![Macaco.png](/img/user/Images/Macaco.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/oceano-cafe/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-01-22"}}
+{"dg-publish":true,"permalink":"/publicacoes/oceano-cafe/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-01-22","cover":"Images/Oceano-5.png"}}
 ---
 
 Série de pinturas em tinta acrílica nas embalagens de café

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/sun/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/sun/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-12","cover":"Images/sun.png"}}
 ---
 
 ![sun.png](/img/user/Images/sun.png)

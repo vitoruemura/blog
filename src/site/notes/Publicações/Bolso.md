@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/bolso/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-12-26"}}
+{"dg-publish":true,"permalink":"/publicacoes/bolso/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-12-26","cover":"Images/bolso.png"}}
 ---
 
 ![bolso.png\|400](/img/user/Images/bolso.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/janela-da-arvore/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2022-11-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/janela-da-arvore/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2022-11-06","cover":"Images/janela da arvore.png"}}
 ---
 
 ![janela da arvore.png](/img/user/Images/janela%20da%20arvore.png)

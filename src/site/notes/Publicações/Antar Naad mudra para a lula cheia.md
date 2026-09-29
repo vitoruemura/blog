@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/antar-naad-mudra-para-a-lula-cheia/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-15"}}
+{"dg-publish":true,"permalink":"/publicacoes/antar-naad-mudra-para-a-lula-cheia/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-15","cover":"Images/antar naad.png"}}
 ---
 
 ![antar naad.png](/img/user/Images/antar%20naad.png)

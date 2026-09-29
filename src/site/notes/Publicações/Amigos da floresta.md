@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/amigos-da-floresta/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2022-11-08"}}
+{"dg-publish":true,"permalink":"/publicacoes/amigos-da-floresta/","tags":["desenho","reflexao"],"dg-note-properties":{"tags":["desenho","reflexao"],"date":"2022-11-08","cover":"Images/amigos da floresta 1.png"}}
 ---
 
 ![amigos da floresta 1.png](/img/user/Images/amigos%20da%20floresta%201.png)

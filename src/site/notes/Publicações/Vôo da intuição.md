@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/voo-da-intuicao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/voo-da-intuicao/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-12","cover":"Images/voo da int 2.png"}}
 ---
 
 ![voo da int 2.png](/img/user/Images/voo%20da%20int%202.png)

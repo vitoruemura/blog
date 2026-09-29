@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/eu-sou-o-passaro/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-11-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/eu-sou-o-passaro/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2022-11-17","cover":"Images/eu sou o passaro.png"}}
 ---
 
 ![eu sou o passaro.png](/img/user/Images/eu%20sou%20o%20passaro.png)

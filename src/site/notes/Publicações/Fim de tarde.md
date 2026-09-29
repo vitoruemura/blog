@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/fim-de-tarde/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-20"}}
+{"dg-publish":true,"permalink":"/publicacoes/fim-de-tarde/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2022-10-20","cover":"Images/fim de tarde.png"}}
 ---
 
 ![fim de tarde.png](/img/user/Images/fim%20de%20tarde.png)
