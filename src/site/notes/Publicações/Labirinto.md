@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/labirinto/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2019-07-19"}}
+{"dg-publish":true,"permalink":"/publicacoes/labirinto/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2019-07-19","cover":"Images/Labirinto 1.png"}}
 ---
 
 ![Labirinto 1.png\|500](/img/user/Images/Labirinto%201.png) ![Labirinto 2.png\|500](/img/user/Images/Labirinto%202.png)

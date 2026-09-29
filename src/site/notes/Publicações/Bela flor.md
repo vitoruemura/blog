@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/bela-flor/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-01-23"}}
+{"dg-publish":true,"permalink":"/publicacoes/bela-flor/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-01-23","cover":"Images/bela-flor.png"}}
 ---
 
 ![bela-flor.png](/img/user/Images/bela-flor.png)

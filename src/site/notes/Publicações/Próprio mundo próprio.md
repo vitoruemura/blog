@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/proprio-mundo-proprio/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-02-02"}}
+{"dg-publish":true,"permalink":"/publicacoes/proprio-mundo-proprio/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-02-02","cover":"Images/corvo.png"}}
 ---
 
 ![corvo.png](/img/user/Images/corvo.png)

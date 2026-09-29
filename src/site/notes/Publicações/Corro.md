@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/corro/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2019-08-07"}}
+{"dg-publish":true,"permalink":"/publicacoes/corro/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2019-08-07","cover":"Images/corro.png"}}
 ---
 
 ![corro.png](/img/user/Images/corro.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/chave/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-02-04"}}
+{"dg-publish":true,"permalink":"/publicacoes/chave/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-02-04","cover":"Images/chave.png"}}
 ---
 
 ![chave.png](/img/user/Images/chave.png)

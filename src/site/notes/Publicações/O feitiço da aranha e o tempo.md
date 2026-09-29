@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-feitico-da-aranha-e-o-tempo/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2020-04-05"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-feitico-da-aranha-e-o-tempo/","tags":["desenho","poema"],"dg-note-properties":{"tags":["desenho","poema"],"date":"2020-04-05","cover":"Images/feitico.png"}}
 ---
 
 ![feitico.png](/img/user/Images/feitico.png)

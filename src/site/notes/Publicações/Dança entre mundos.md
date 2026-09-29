@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/danca-entre-mundos/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-02-13"}}
+{"dg-publish":true,"permalink":"/publicacoes/danca-entre-mundos/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-02-13","cover":"Images/dança entre mundos.png"}}
 ---
 
 ![dança entre mundos.png](/img/user/Images/dan%C3%A7a%20entre%20mundos.png)

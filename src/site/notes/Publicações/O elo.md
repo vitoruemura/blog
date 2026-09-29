@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-elo/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2019-10-08"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-elo/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2019-10-08","cover":"Images/elo.png"}}
 ---
 
 ![elo.png](/img/user/Images/elo.png)

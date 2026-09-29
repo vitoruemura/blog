@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/risca-seu-traco/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2020-03-21"}}
+{"dg-publish":true,"permalink":"/publicacoes/risca-seu-traco/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2020-03-21","cover":"Images/risca.png"}}
 ---
 
 ![risca.png](/img/user/Images/risca.png)

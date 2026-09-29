@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/horizonte/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-01-23"}}
+{"dg-publish":true,"permalink":"/publicacoes/horizonte/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2015-01-23","cover":"Images/horizonte.png"}}
 ---
 
 ![horizonte.png](/img/user/Images/horizonte.png)

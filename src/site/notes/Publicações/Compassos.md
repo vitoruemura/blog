@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/compassos/","tags":["desenho","poema","outro"],"dg-note-properties":{"date":"2014-11-05","tags":["desenho","poema","outro"]}}
+{"dg-publish":true,"permalink":"/publicacoes/compassos/","tags":["desenho","poema","outro"],"dg-note-properties":{"date":"2014-11-05","tags":["desenho","poema","outro"],"cover":"Images/compassos.png"}}
 ---
 
 ![compassos.png](/img/user/Images/compassos.png)

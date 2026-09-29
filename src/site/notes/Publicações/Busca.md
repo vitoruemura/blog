@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/busca/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2018-09-19"}}
+{"dg-publish":true,"permalink":"/publicacoes/busca/","tags":["poema","desenho"],"dg-note-properties":{"tags":["poema","desenho"],"date":"2018-09-19","cover":"Images/busca.png"}}
 ---
 
 ![busca.png](/img/user/Images/busca.png)

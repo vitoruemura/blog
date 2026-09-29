@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/o-cataclisma-de-outra-epoca/","tags":["desenho","poema","outro"],"dg-note-properties":{"tags":["desenho","poema","outro"],"date":"2014-11-06"}}
+{"dg-publish":true,"permalink":"/publicacoes/o-cataclisma-de-outra-epoca/","tags":["desenho","poema","outro"],"dg-note-properties":{"tags":["desenho","poema","outro"],"date":"2014-11-06","cover":"Images/Cataclisma.png"}}
 ---
 
 ![Cataclisma.png](/img/user/Images/Cataclisma.png)
