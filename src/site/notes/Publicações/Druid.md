@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/druid/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-24"}}
+{"dg-publish":true,"permalink":"/publicacoes/druid/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-24","cover":"Images/druid.png"}}
 ---
 
 ![druid.png](/img/user/Images/druid.png)

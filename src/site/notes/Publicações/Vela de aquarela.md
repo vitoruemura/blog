@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/vela-de-aquarela/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-10-01"}}
+{"dg-publish":true,"permalink":"/publicacoes/vela-de-aquarela/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-10-01","cover":"Images/vela-de-aquarela.png"}}
 ---
 
 ![vela-de-aquarela.png](/img/user/Images/vela-de-aquarela.png)

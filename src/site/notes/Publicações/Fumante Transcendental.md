@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/fumante-transcendental/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-11-19"}}
+{"dg-publish":true,"permalink":"/publicacoes/fumante-transcendental/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-11-19","cover":"Images/fumante-trans.png"}}
 ---
 
 ![fumante-trans.png](/img/user/Images/fumante-trans.png)

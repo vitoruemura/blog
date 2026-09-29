@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/caju-on-fire/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-02-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/caju-on-fire/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-02-12","cover":"Images/Caju.png"}}
 ---
 
 ![Caju.png\|600](/img/user/Images/Caju.png)

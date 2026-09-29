@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-130/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-19"}}
+{"dg-publish":true,"permalink":"/publicacoes/jornal-do-veneno-130/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-19","cover":"Images/JV 130.png"}}
 ---
 
 ![JV 130.png](/img/user/Images/JV%20130.png)

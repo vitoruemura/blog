@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/blue-face/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-10-04"}}
+{"dg-publish":true,"permalink":"/publicacoes/blue-face/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-10-04","cover":"Images/blue face.png"}}
 ---
 
 ![blue face.png](/img/user/Images/blue%20face.png)

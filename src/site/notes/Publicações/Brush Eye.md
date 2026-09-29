@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/brush-eye/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/publicacoes/brush-eye/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-16","cover":"Images/brush eye.png"}}
 ---
 
 ![brush eye.png](/img/user/Images/brush%20eye.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/liberdade/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-04-28"}}
+{"dg-publish":true,"permalink":"/publicacoes/liberdade/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-04-28","cover":"Images/Liberdade Insta 1.png"}}
 ---
 
 Tem uma sensação muito característica, uma coisa que arrepia, que enche a gente de energia, que faz sentir o pulsar da vida em cada célula do corpo. Pra mim isso sempre teve relação com o vento, com a brisa leve que acompanha uma alma aventureira.

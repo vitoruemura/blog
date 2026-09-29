@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/cartinhas-para-altar/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-07-30"}}
+{"dg-publish":true,"permalink":"/publicacoes/cartinhas-para-altar/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-07-30","cover":"Images/Cartinhas.png"}}
 ---
 
 Andei pintado umas cartinhas para colocar no altar. Acho que elas ajudam a trazer um tipo de energia para as preces diárias.

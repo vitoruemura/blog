@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/serpente-magica/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-08-12"}}
+{"dg-publish":true,"permalink":"/publicacoes/serpente-magica/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-08-12","cover":"Images/serpente-magica.png"}}
 ---
 
 ![serpente-magica.png](/img/user/Images/serpente-magica.png)

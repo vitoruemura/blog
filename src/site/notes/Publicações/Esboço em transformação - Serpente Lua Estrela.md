@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/esboco-em-transformacao-serpente-lua-estrela/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-04-07"}}
+{"dg-publish":true,"permalink":"/publicacoes/esboco-em-transformacao-serpente-lua-estrela/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-04-07","cover":"Images/Snake Moon Star.png"}}
 ---
 
 ![Snake Moon Star.png\|600](/img/user/Images/Snake%20Moon%20Star.png)

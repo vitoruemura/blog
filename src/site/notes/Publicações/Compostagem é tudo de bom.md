@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/compostagem-e-tudo-de-bom/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-08-14"}}
+{"dg-publish":true,"permalink":"/publicacoes/compostagem-e-tudo-de-bom/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-08-14","cover":"Images/Tudo de bom.png"}}
 ---
 
 ![Tudo de bom.png](/img/user/Images/Tudo%20de%20bom.png)

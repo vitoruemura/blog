@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/olho-azul/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-07-23"}}
+{"dg-publish":true,"permalink":"/publicacoes/olho-azul/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2024-07-23","cover":"Images/olhoazul.png"}}
 ---
 
 ![olhoazul.png](/img/user/Images/olhoazul.png)

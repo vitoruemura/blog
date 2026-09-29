@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/ojos/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-10-31"}}
+{"dg-publish":true,"permalink":"/publicacoes/ojos/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-10-31","cover":"Images/ojos.png"}}
 ---
 
 ![ojos.png](/img/user/Images/ojos.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/montanhas-ao-fundo/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-09"}}
+{"dg-publish":true,"permalink":"/publicacoes/montanhas-ao-fundo/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-09-09","cover":"Images/montanhas-ao-fundo-bw.png"}}
 ---
 
 Pintei primeiro os valores e depois apliquei cor

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/um-nome/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-01-17"}}
+{"dg-publish":true,"permalink":"/publicacoes/um-nome/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-01-17","cover":"Images/Uemura Mits White.png"}}
 ---
 
 Ideia baseada no meu nome em Japonês e nas pinturas turcas cujo estilo, acredito eu, leva o nome de Ebru

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/olho-colorido/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-11-03"}}
+{"dg-publish":true,"permalink":"/publicacoes/olho-colorido/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2025-11-03","cover":"Images/olho-colorido.png"}}
 ---
 
 Exploratória com acrílica e caneta POSCA

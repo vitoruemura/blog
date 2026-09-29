@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/estudo-hand-eye/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-11-08"}}
+{"dg-publish":true,"permalink":"/publicacoes/estudo-hand-eye/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2023-11-08","cover":"Images/Hand Ref.png"}}
 ---
 
 Estudo cinematic lighting
