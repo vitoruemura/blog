@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/quickposes/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-04"}}
+{"dg-publish":true,"permalink":"/publicacoes/quickposes/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-08-04","cover":"Images/quickposes.png"}}
 ---
 
 Treinando

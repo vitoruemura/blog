@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/fardo/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-07-15"}}
+{"dg-publish":true,"permalink":"/publicacoes/fardo/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-07-15","cover":"Images/Fardo.png"}}
 ---
 
 ![Fardo.png](/img/user/Images/Fardo.png)

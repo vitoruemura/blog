@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publicacoes/retro-vision/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-06-30"}}
+{"dg-publish":true,"permalink":"/publicacoes/retro-vision/","tags":["desenho"],"dg-note-properties":{"tags":["desenho"],"date":"2026-06-30","cover":"Images/Retro Vision.png"}}
 ---
 
 ![Retro Vision.png](/img/user/Images/Retro%20Vision.png)
