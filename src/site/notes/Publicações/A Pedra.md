@@ -3,3 +3,6 @@
 ---
 
 ![the stone.png](/img/user/Images/the%20stone.png)
+
+*07 Out 2026*
+#desenho 
