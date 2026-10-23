@@ -4,5 +4,7 @@
 
 ![JV 168.png](/img/user/Images/JV%20168.png)
 
+Ilustração para a edição 168 do [Jornal do Veneno](https://jornaldoveneno.substack.com/p/quiz-do-2-turno)
+
 *22 Out 2026*
 #desenho 
