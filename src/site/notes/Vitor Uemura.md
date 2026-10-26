@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/vitor-uemura/","pinned":true,"tags":["gardenEntry"],"dg-note-properties":{"cover":"Images/distracted-trans2.png"}}
 ---
 
-![distracted-trans2.png](/img/user/Images/distracted-trans2.png)
+![distracted-trans2.png\|700](/img/user/Images/distracted-trans2.png)
 
 # U N D E R B L O G
 
