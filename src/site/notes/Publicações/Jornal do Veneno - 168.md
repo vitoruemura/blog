@@ -4,7 +4,7 @@
 
 ![JV 168.png](/img/user/Images/JV%20168.png)
 
-Ilustração para a edição 168 do [Jornal do Veneno](https://jornaldoveneno.substack.com/)
+Ilustração para a edição 168 do [Jornal do Veneno](https://jornaldoveneno.substack.com/p/kit-de-emergencia-apagao-e-fim-do)
 
 
 *13 Nov 2026*
