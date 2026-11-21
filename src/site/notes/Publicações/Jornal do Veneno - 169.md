@@ -9,7 +9,7 @@
 Versão alternativa 
 ![JV 169.png](/img/user/Images/JV%20169.png)
 
-Ilustra para a edição 169 do Jornal do Veneno
+Ilustra para a edição 169 do [Jornal do Veneno](https://jornaldoveneno.substack.com/p/o-maior-embate-da-historia-desse)
 
 *20 Nov 2026*
 #desenho 
