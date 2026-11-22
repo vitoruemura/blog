@@ -11,8 +11,7 @@
 
 > [!Info] Contatos
 > - www.vitoruemura.com
-> - vitoruemura@proton.me
-> - [+55 11 997893658](https://wa.me/5511997893658)
+> - vitoruemura@tuta.io
 
 ---
 # PUBLICAÇÕES 
